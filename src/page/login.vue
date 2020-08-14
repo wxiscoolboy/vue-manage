@@ -1,7 +1,7 @@
 <template>
   <div id="box">
     <div class="login">
-      <h3>系统登录</h3>
+      <h3>wx系统登录</h3>
       <el-input v-model="acc" placeholder="请输入内容" prefix-icon="el-icon-user-solid" clearable></el-input>
       <el-input placeholder="请输入密码" v-model="pwd" show-password prefix-icon="el-icon-lock"></el-input>
       <p class="error-p">{{ errormsg }}</p>
