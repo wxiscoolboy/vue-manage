@@ -122,7 +122,7 @@
       <p>订单状态：{{this.seedata.orderState}}</p>
       <span slot="footer" class="dialog-footer">
         <el-button @click="dialogVisible = false">取 消</el-button>
-        <el-button type="primary" @click="dialogVisible = false">确 定</el-button>
+        <el-button type="primary" @click="dialogVisible = false">确  定</el-button>
       </span>
     </el-dialog>
   </div>
