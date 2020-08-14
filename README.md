@@ -1,4 +1,5 @@
 # vue-manage
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+创建一个新的vue管理项目
+>>>>>>> 3e59d4c1080a9e71c162adc4b19a74278ea87711
